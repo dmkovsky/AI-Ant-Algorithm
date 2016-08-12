@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Created by dmkov on 17.04.2016.
  */
-public class JavaSI {
+public class AntAlgorithm {
     public static void main(String[] args) {
         ArrayList<Roads> roadList = new ArrayList<Roads>();
         Point p1 = new Point("p1");
