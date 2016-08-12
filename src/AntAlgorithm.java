@@ -16,7 +16,6 @@ public class AntAlgorithm {
         Point p7 = new Point("p7");
         Point p8 = new Point("p8");
 
-
         Roads r1 = new Roads(p1, p2, 0.2);
         Roads r2 = new Roads(p1, p3, 0.6);
         Roads r3 = new Roads(p2, p3, 0.3);
